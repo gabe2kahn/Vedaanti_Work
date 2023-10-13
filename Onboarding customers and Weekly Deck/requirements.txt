@@ -1,0 +1,41 @@
+asn1crypto @ file:///home/conda/feedstock_root/build_artifacts/asn1crypto_1647369152656/work
+Bottleneck @ file:///opt/concourse/worker/volumes/live/f7139d11-2eee-4f6e-48cd-73168dc9e900/volume/bottleneck_1648028909796/work
+brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1666764961872/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2emnmf1qow/croot/certifi_1690232232440/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1671179414629/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1695554308980/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1669592241899/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1693242237773/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1696601219319/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1695380028307/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1695328828802/work
+munkres==1.1.4
+numexpr @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_af4b0e04-04bd-4fbe-a784-5f99c0e1839bdms4cshf/croots/recipe/numexpr_1656071946025/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1691056334969/work
+oscrypto @ file:///home/conda/feedstock_root/build_artifacts/oscrypto_1610205902676/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+pandas==1.4.2
+Pillow @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_124pvldps5/croot/pillow_1695134106500/work
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1688739404342/work
+pyarrow==10.0.1
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pycryptodomex @ file:///Users/runner/miniforge3/conda-bld/pycryptodomex_1684532158774/work
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1689721553971/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1680088766131/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+seaborn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_73qom8fm82/croot/seaborn_1673479206328/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+snowflake-connector-python @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b3brx_7v2s/croot/snowflake-connector-python_1692288948692/work
+sortedcontainers @ file:///home/conda/feedstock_root/build_artifacts/sortedcontainers_1621217038088/work
+tomlkit @ file:///home/conda/feedstock_root/build_artifacts/tomlkit_1690472772788/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1695373570914/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1695848189757/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1678635778344/work
